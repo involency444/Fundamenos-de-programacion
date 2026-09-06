@@ -1,4 +1,4 @@
-# Fundamenos-de-programacion
+# Fundamentos-de-programacion
 # 👨‍💻 Mis proyectos de programación
 
 Hola. 👋
