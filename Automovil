@@ -47,7 +47,7 @@ class Automovil {
 }
 
 
-// AQUI PONEMOS EL MAIN PARA QUE ASI PUEDA CORRER SIN PROBLEMA EL CODIGO
+// AQUI PONEMOS EL MAIN 
 
 package automovil;
 
