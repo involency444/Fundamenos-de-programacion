@@ -1,0 +1,18 @@
+// Crear el primer objeto de la clase Mascota.
+Mascota mascota1 = new Mascota("Abby", "Perro", 7);
+
+// Mostrar la información de la primera mascota.
+mascota1.mostrarInfo();
+
+// Acceder directamente al atributo nombre.
+System.out.println(mascota1.nombre);
+
+
+// Crear el segundo objeto de la clase Mascota.
+Mascota mascota2 = new Mascota("Peluso", "Gato", 6);
+
+// Mostrar la información de la segunda mascota.
+mascota2.mostrarInfo();
+
+// Acceder directamente al atributo nombre.
+System.out.println(mascota2.nombre);
