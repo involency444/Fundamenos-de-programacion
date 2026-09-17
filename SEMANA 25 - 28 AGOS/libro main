@@ -1,0 +1,18 @@
+// Crear el primer objeto de la clase Libro.
+Libro libro1 = new Libro("Drácula", "Bram Stoker", 418);
+
+// Mostrar la información del primer libro.
+libro1.mostrarInfo();
+
+// Acceder directamente al atributo titulo.
+System.out.println(libro1.titulo);
+
+
+// Crear el segundo objeto de la clase Libro.
+Libro libro2 = new Libro("Déjame entrar", "John Ajvide Lindqvist", 496)
+
+// Mostrar la información del segundo libro.
+libro2.mostrarInfo();
+
+// Acceder directamente al atributo titulo.
+System.out.println(libro2.titulo);
